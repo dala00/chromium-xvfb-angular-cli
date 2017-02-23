@@ -5,4 +5,4 @@ headless inside of a Docker container. If you're looking for a way to run your K
 against Chrome using Docker, this is the project you've been looking for!
 Use cases include:
 
-* Run angular-cli tests with Karma inside of Docker during local development or CI builds
+* Run angular-cli tests with Karma inside of Docker during local development or CI builds.
